@@ -1,4 +1,4 @@
-package com.example.w1d2_helloworld
+package com.example.w1d3_helloworld
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
@@ -19,6 +19,6 @@ class ExampleInstrumentedTest {
     fun useAppContext() {
         // Context of the app under test.
         val appContext = InstrumentationRegistry.getInstrumentation().targetContext
-        assertEquals("com.example.w1d2_helloworld", appContext.packageName)
+        assertEquals("com.example.w1d3_helloworld", appContext.packageName)
     }
 }

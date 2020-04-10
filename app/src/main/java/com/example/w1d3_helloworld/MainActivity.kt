@@ -1,4 +1,4 @@
-package com.example.w1d2_helloworld
+package com.example.w1d3_helloworld
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
